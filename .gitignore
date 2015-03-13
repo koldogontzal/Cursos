@@ -1,1 +1,5 @@
 *.class
+
+## Comentarios
+## Un directorio debería ponerse así:
+#bin/
